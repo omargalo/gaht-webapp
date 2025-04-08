@@ -1,0 +1,6 @@
+@gaht_webapp_HostAddress = http://localhost:5038
+
+GET {{gaht_webapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
